@@ -1,0 +1,10 @@
+body{
+    background-color: blanchedalmond;
+}
+.correct{
+    border: 20px;
+    justify-content: center;
+
+    text-align: center;
+    background-image: url(img/check-40319_1280.webp) fixed no-repeat;
+}

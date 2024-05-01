@@ -1,0 +1,92 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: 0px;
+border: 0px;
+}
+.start ul{
+    display: flex;
+    background-color:beige;
+    font-size: 20px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    background-attachment: fixed;
+    background-position: fixed;
+   position: fixed;
+   right: 0px;
+   left: 0px;
+   top: 0px;
+
+    
+    
+} 
+
+.start ul li {
+
+    margin: 100px;
+  
+
+}
+.mid{
+    background-image: url(ultra-band-unselect-gallery-1-202309_FMT_WHH.jpg) fixed  none center;
+    
+    background-size: contain;
+    margin-left: 230px;
+    
+} 
+.bottom {
+    
+    display: flex;
+    width: 100px;
+
+}
+.bottom div h1{
+    text-align: center;
+}
+.bottom div:hover{
+    transition: 1s all ease;
+    transform: translate(50px,50px);
+
+}
+.bottom2{
+    display: flex;
+
+}
+.bottom2 div:hover{
+    transition: 1s all ease;
+    transform: translate(50px,50px);
+
+}
+.bottom3{
+    display: flex;
+    width: 100px;
+
+}
+.bottom3 div:hover{
+    transition: 1s all ease;
+    transform: translate(50px,50px);
+
+}
+.bottom4{
+    
+        display: flex;
+        width: 100px;
+}
+.bottom4 div:hover{
+    transition: 1s all ease;
+    transform: translate(50px,50px);
+
+}
+.bottom5{
+    
+    display: flex;
+    width: 100px;
+}
+.bottom5 div:hover{
+transition: 1s all ease;
+transform: translate(50px,50px);
+
+}
+

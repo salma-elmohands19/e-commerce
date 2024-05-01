@@ -1,0 +1,48 @@
+body{
+    background-color: #fadffa;
+}
+.start img{
+
+    background-image: url(img/apple-watch-series7.jpg) no-repeat fixed center;
+    background-attachment: fixed;
+    background-size:2000px;
+    margin-left: 200px;
+    margin-right: 300px;
+}  
+.details ul{
+    font-size: 30px;
+
+}  
+.button input {
+    background-color:#D16BA5;
+    border:5px solid rgb(243, 229, 243) ;
+    border-radius: 20px;
+    background-size: 100%;
+    display: flex;
+    padding: 10px;
+    font-size: 20px;
+}
+.button h1{
+    background-color:#D16BA5;
+    border:5px solid rgb(243, 229, 243) ;
+    border-radius: 20px;
+background-size: 0px;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    margin: 5px;
+
+}
+.button h1:hover{
+    background-color:#8c1458;
+    border:5px solid rgb(243, 229, 243) ;
+    border-radius: 20px;
+background-size: 0px;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    margin: 5px;
+    transition: 0.5s all ease;
+    transform: translate(2px);
+
+}

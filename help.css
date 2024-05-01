@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+    border: 0px;
+    }
+body{
+    background-color: rgb(247, 213, 169);
+}
+.help h1{
+    font-size: 20px;
+background-color: rgb(246, 204, 141);
+padding: 20px;
+font-size: 60px;
+position: fixed;
+right: 0px;
+   left: 0px;
+   top: 0px;
+
+    
+
+
+}

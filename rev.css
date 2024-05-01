@@ -1,0 +1,41 @@
+body{
+    background-color: blanchedalmond;
+}
+.rev{
+    background-image: url(img/AFEmfECgHpsnhShsEI6Wp3sJum6b0kb8uuMly750.webp) flex no-repeat ;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.rev ul{
+    list-style: none;
+    padding: 20px;
+    
+}
+
+
+.rev h2{
+    background-color:#D16BA5;
+    border:5px solid rgb(243, 229, 243) ;
+    border-radius: 20px;
+background-size: 0px;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    margin: 30px;
+    margin-top: 40px;
+
+}
+.rev h2:hover{
+    background-color:#8c1458;
+    border:5px solid rgb(243, 229, 243) ;
+    border-radius: 20px;
+background-size: 0px;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    margin: 5px;
+    transition: 1s all ease;
+    transform: translate(2px);
+
+}

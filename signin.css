@@ -1,0 +1,31 @@
+.signin{
+    text-align: center;
+    border:2px solid white;
+     box-shadow:10px 10px hsla(240, 3%, 35%, 0.587);
+   border-radius: 30px;
+    padding: 30px;
+    margin-left: 300px;
+margin-top: 100px;
+    width: 500px;
+    height: 400px;
+    
+}
+.signin input{
+    margin: 10px;
+    background-color: #817f8592;
+    border-radius: 10px;
+    padding: 10px;
+}
+.signin input:hover{
+    margin: 10px;
+    background-color: #6f44c4c4;
+    border-radius: 10px;
+transition: 0.5s all ease;
+transform: translate(10px);
+}
+
+body{
+    
+background-image: linear-gradient(to bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+height: 500px;
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+}
+.contact{
+    justify-content: center;
+    justify-items: center;
+    border:2px solid white;
+    border-radius: 30px;
+    box-shadow:10px 10px hsla(240, 3%, 35%, 0.587);
+    padding: 30px;
+    margin-left: 300px;
+margin-top: 100px;
+    width: 500px;
+    height: 400px;
+
+}
+.contact input{
+    display: flex;
+    margin: 10px;
+    background-color: #817f8592;
+    border-radius: 10px;
+    padding: 10px;
+    
+
+
+}
